@@ -4,4 +4,4 @@ yarn config set registry https://registry.npm.taobao.org/
 yarn install
 npm run gh
 cd dist
-tar -cvf react.tar *
+tar -cvf portal.tar *

@@ -126,7 +126,7 @@
 
       <Host name="localhost"  appBase="webapps"
             unpackWARs="true" autoDeploy="false" deployOnStartup="false" >
-     <Context docBase="/usr/tomcat/tomcat8.0/webserver/webapps/react" path="/" reloadable="false" />
+     <Context docBase="/usr/tomcat/tomcat8.0/webserver/webapps/portal" path="/" reloadable="false" />
 
         <!-- SingleSignOn valve, share authentication between web applications
              Documentation at: /docs/config/valve.html -->
